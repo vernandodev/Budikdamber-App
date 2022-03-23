@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.HomeFragment"
+    android:background="@color/latar1"
+    android:orientation="vertical"
+    android:id="@+id/fragmenthome">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.denzcoskun.imageslider.ImageSlider
+            android:layout_width="match_parent"
+            android:id="@+id/slider"
+            android:layout_height="214dp"
+            app:iss_auto_cycle="true"
+            android:layout_marginTop="80dp"
+            app:iss_placeholder="@drawable/banner1"
+            app:iss_error_image="@drawable/banner1"
+            app:iss_period="2000"
+            app:iss_corner_radius="5">
+        </com.denzcoskun.imageslider.ImageSlider>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/white"
+            android:layout_marginTop="335dp"
+            android:gravity="center">
+
+            <ImageButton
+                android:id="@+id/btn_pengertian"
+                android:layout_width="340dp"
+                android:layout_height="55dp"
+                android:background="@drawable/pengertian"
+                android:contentDescription="@string/btn_fr_home"/>
+
+            <ImageButton
+                android:id="@+id/btn_instalasi"
+                android:layout_width="340dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/instalasi"
+                android:contentDescription="@string/btn_fr_home"/>
+
+            <ImageButton
+                android:id="@+id/btn_perawatan"
+                android:layout_width="340dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/perawatan"
+                android:contentDescription="@string/btn_fr_home"/>
+
+            <ImageButton
+                android:id="@+id/btn_perkembangan"
+                android:layout_width="340dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/perkembangan"
+                android:contentDescription="@string/btn_fr_home"/>
+        </LinearLayout>
+
+
+
+    </RelativeLayout>
+
+
+
+</ScrollView>

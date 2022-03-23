@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bottom_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        app:cnb_backgroundColor="@color/bg_biru" />
+    <item
+        android:id="@+id/bottom_scanar"
+        android:title="Scan AR"
+        android:icon="@drawable/ic_scanar"
+        app:cnb_backgroundColor="@color/bg_biru" />
+    <item
+        android:id="@+id/bottom_tentang"
+        android:title="Tentang"
+        android:icon="@drawable/ic_account"
+        app:cnb_backgroundColor="@color/bg_biru" />
+</menu>

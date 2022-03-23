@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">BudikdamberApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- TITLE -->
+    <string name="title_activity_pengertian">PengertianActivity</string>
+    <string name="title_activity_instalasi">InstalasiActivity</string>
+    <string name="title_activity_perawatan">PerawatanActivity</string>
+    <string name="title_activity_perkembangan">PerkembanganActivity</string>
+    <string name="title_activity_panduan">HandlerPanduan</string>
+    <string name="hello_world">Hello Square World!</string>
+
+    <!-- ACTIVITY_SPLASH -->
+    <string name="slmt_dtg">Selamat Datang</string>
+    <string name="logosplash">Logo Splash Screen</string>
+
+    <!-- ACTIVITY_MAIN -->
+    <string name="name_app">BudikdamberApp</string>
+
+    <!-- FRAGMENT HOME -->
+    <string name="btn_fr_home">Button Fragment Home</string>
+
+    <!-- FRAGMENT SCAN -->
+    <string name="btn_fr_scan">Button Fragment Scan</string>
+
+    <!-- PANDUAN PENGGUNAAN SCAN AR -->
+    <string name="panduan">Panduan Penggunaan Scan AR</string>
+    <string name="geser">( GESER GAMBAR )</string>
+
+    <!-- HANDLER SCAN -->
+    <string name="btn_hps">Hapus</string>
+
+    <!-- FRAGMENT TENTANG -->
+    <string name="txtvw1_tentang">Tentang Aplikasi</string>
+    <string name="btn_fr_tentang">Button Fragment Tentang</string>
+    <string name="txtvw2_tentang">Aplikasi ini menjelaskan tentang Budidaya ikan dalam ember dan di dalam aplikasi terdapat Scan Augmented Reality untuk melihat ikan lele yang sehat (normal) dan yang tidak sehat (kembung).</string>
+
+    <!-- LAYOUT PENGERTIAN -->
+    <string name="pengertian">Pengertian Budikdamber</string>
+    <string name="pngrtn_1">Budidaya ikan dalam ember (budikdamber) adalah teknik budidaya ikan dan tanaman yang dapat dilakukan secara bersama-sama yang menggunakan ember atau sejenisnya sebagai media penampung keduanya. </string>
+    <string name="pngrtn_2">Budikdamber memiliki beberapa keunggulan, seperti :</string>
+    <string name="pngrtn_3">•   Dapat dilakukan pada lahan yang sempit.</string>
+    <string name="pngrtn_4">•	Air yang terbatas.</string>
+    <string name="pngrtn_5">•	Alat dan bahan yang mudah ditemukan.</string>
+    <string name="pngrtn_6">•	Tidak memerlukan listrik (zero electricity).</string>
+    <string name="pngrtn_7">Dengan beberapa keunggulan diatas program budikdamber, dapat dijadikan salah satu program untuk mendukung kemandirian pangan pada rumah tangga, pondok pesantren serta panti asuhan untuk memenuhi gizi dan ketahanan pangan masyarakat.</string>
+    <string name="cntnt_dsc">gambar budikdamber</string>
+
+    <!-- LAYOUT INSTALASI -->
+    <string name="instalasi">Instalasi Budikdamber</string>
+    <string name="instlsi">Bagian instalasi budikdamber :</string>
+    <string name="instlsi_1">1.	Air</string>
+    <string name="instlsi_2">2.	Ember plastic 80 liter, diisi dengan air 60 s/d 70 liter.</string>
+    <string name="instlsi_3">3.	Bibit ikan lele dengan panjang 4 s/d 6 cm, 5 sampai 7 cm, atau 6 s/d 9 cm semakin besar semakin baik, dalam satu ember dapat menampung ikan 60 s/d 100 ekor.</string>
+    <string name="instlsi_4">4.	Pakan Ikan lele diberi pakan khusus karnivora karena sifat ikan yang karnivora.</string>
+    <string name="instlsi_5">5.	Arang</string>
+    <string name="instlsi_6">6.	Kain</string>
+    <string name="instlsi_7">7.	Tanah</string>
+    <string name="instlsi_8">8.	Pot dapat menyesuaikan dengan media tanam :</string>
+    <string name="instlsi_8.1">•	Media tanam arang (kayu, sekam dan batok) bisa tanam kangkung, genjer, bayam brazil.</string>
+    <string name="instlsi_8.2">•	Media tanam tanah (kain dan tanah) bisa tanam padi, genjer.</string>
+    <string name="instlsi_8.3">•	Media tanam AKT (arang, kain, tanah) bisa tanam semua tanaman.</string>
+
+    <!-- LAYOUT INSTALASI -->
+    <string name="perawatan">Perawatan Budikdamber</string>
+    <string name="prwtn">Bagian perawatan budikdamber :</string>
+    <string name="prwtn1">Perawatan ikan :</string>
+    <string name="prwtn2">•	Pemberian pakan harus rutin dan terjadwal, selain itu pakan tidak bisa diberikan berubah-ubah frekuensinya. Misal, minggu ini 2 kali/hari, minggu berikutnya 1 kali/hari. Hal ini akan mengakibatkan pertumbuhan ikan terhambat.</string>
+    <string name="prwtn3">•	Pemberian pakan ikan yang dihabiskan 4 s/d 8 kg per ember, maka ikan yang dihasilkan pada saat panen berkisar antara 3 s/d 6 kg per ember.</string>
+    <string name="prwtn4">•	Kontrol ikan dalam ember dapat dilakukan dengan jangka 1 minggu untuk melihat pertumbuhan ikan.</string>
+    <string name="prwtn5">•	Pisahkan ikan yang telah mati agar tidak menjadi pembawa penyakit pada ikan lainnya.</string>
+    <string name="prwtn6">•	Air dibersihkan dari kotoran, dikuras hingga ¼, kemudian ditambah dengan air yang baru, atau cukup dibersihkan saja dari kotoran yang terdapat di dalamnya apabila tidak memiliki air yang cukup.</string>
+    <string name="prwtn7">•	Jika benih ikan yang ditebar ukuran 5 s/d 7 cm, masa panennya setelah 2.5 s/d 3 bulan. Jika ukuran benih besar dari 10 cm, panen dapat dilakukan setelah 2 s/d 2.5 bulan.</string>
+    <string name="prwtn8">Perawatan tanaman :</string>
+    <string name="prwtn9">•	Pot tanaman yang disatukan dengan ember budikdamber pastikan terendam 2 s/d 3 cm didalam air.</string>
+    <string name="prwtn10">•	Kangkung dapat dipanen dalam waktu 14 hari dengan cukup memotong bagian batang daun dan sisakan batang tunas nya untuk dapat dipanen kembali.</string>
+    <string name="prwtn11">•	Genjer dapat dipanen setelah lebih dari 60 hingga 90 hari.</string>
+    <string name="prwtn12">•	Sawi dapat dipanen setelah lebih dari 30 hari.</string>
+    <string name="prwtn13">•	Bayam dapat dipanen setelah lebih dari 30 hari.</string>
+    <string name="prwtn14">•	Tomat dapat dipanen setelah lebih dari 75 hari.</string>
+    <string name="prwtn15">•	Selain disatukan dengan ember budikdamber, pot tanaman juga dapat diletakkan disekitar budikdamber dan siram pakai air dari budikdamber.</string>
+
+    <!-- LAYOUT PERKEMBANGAN -->
+    <string name="perkembangan">Perkembangan Ikan Lele</string>
+    <string name="perkembangan1">Perkembangan ikan lele pada budidaya ikan dalam ember memiliki rentan waktu yang berbeda-beda hingga ikan siap dipanen, yang dipengaruhi oleh beberapa faKtor seperti : kualitas bibit, cuaca, dan pemberian pakan.</string>
+    <string name="perkembangan2">Perkembangan Bibit Lele</string>
+    <string name="perkembangan3">•	Bibit Ikan lele pada awal program budikdamber panjang 8 cm, berat 13 gram.</string>
+    <string name="img_lele">Gambar Lele 1</string>
+    <string name="perkembangan4">•	Ikan lele pada pertengahan program budikdamber panjang 17 cm berat 41 gram.</string>
+    <string name="img_lele2">Gambar Lele 2</string>
+    <string name="perkembangan5">•	Ikan lele yang telah siap dipanen panjang 26 cm dengan berat 83 gram</string>
+    <string name="img_lele3">Gambar Lele 3</string>
+
+</resources>

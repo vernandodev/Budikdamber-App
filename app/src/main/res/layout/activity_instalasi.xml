@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".InstalasiActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@color/bg_biru"
+        android:elevation="2dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:gravity="center"
+            android:text="@string/instalasi"
+            android:fontFamily="sans-serif"
+            android:textColor="@color/white"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/noto_regular"
+                android:textColor="@color/black"
+                android:text="@string/instlsi" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:textSize="16sp"
+                android:textStyle="normal"
+                android:fontFamily="@font/noto_regular"
+                android:textColor="@color/black"
+                android:text="@string/instlsi_1" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:textSize="16sp"
+                android:textStyle="normal"
+                android:fontFamily="@font/noto_regular"
+                android:textColor="@color/black"
+                android:text="@string/instlsi_2" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:textSize="16sp"
+                android:textStyle="normal"
+                android:fontFamily="@font/noto_regular"
+                android:textColor="@color/black"
+                android:text="@string/instlsi_3" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:textSize="16sp"
+                android:textStyle="normal"
+                android:fontFamily="@font/noto_regular"
+                android:textColor="@color/black"
+                android:text="@string/instlsi_4" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:textSize="16sp"
+                android:textStyle="normal"
+                android:fontFamily="@font/noto_regular"
+                android:textColor="@color/black"
+                android:text="@string/instlsi_5" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:textSize="16sp"
+                android:textStyle="normal"
+                android:fontFamily="@font/noto_regular"
+                android:textColor="@color/black"
+                android:text="@string/instlsi_6" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:textSize="16sp"
+                android:textStyle="normal"
+                android:fontFamily="@font/noto_regular"
+                android:textColor="@color/black"
+                android:text="@string/instlsi_7" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:textSize="16sp"
+                android:textStyle="normal"
+                android:fontFamily="@font/noto_regular"
+                android:textColor="@color/black"
+                android:text="@string/instlsi_8" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_marginStart="25dp"
+                android:layout_marginEnd="15dp"
+                android:textSize="15sp"
+                android:textStyle="normal"
+                android:fontFamily="@font/noto_regular"
+                android:textColor="@color/black"
+                android:text="@string/instlsi_8.1" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_marginStart="25dp"
+                android:layout_marginEnd="15dp"
+                android:textSize="15sp"
+                android:textStyle="normal"
+                android:fontFamily="@font/noto_regular"
+                android:textColor="@color/black"
+                android:text="@string/instlsi_8.2" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_marginStart="25dp"
+                android:layout_marginEnd="15dp"
+                android:textSize="15sp"
+                android:textStyle="normal"
+                android:fontFamily="@font/noto_regular"
+                android:textColor="@color/black"
+                android:text="@string/instlsi_8.3" />
+            <ImageView
+                android:layout_width="400dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center"
+                android:src="@drawable/img_instalasi"
+                android:contentDescription="@string/cntnt_dsc"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="15dp"
+                android:fontFamily="sans-serif"
+                android:textSize="17sp"
+                android:textStyle="normal" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="15dp"
+                android:fontFamily="sans-serif"
+                android:textSize="17sp"
+                android:textStyle="normal" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
